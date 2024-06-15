@@ -1,5 +1,4 @@
 xhofe/alist:latest
 postgres:16.3-alpine
 artalk/artalk-go
-besscroft/picimpact:latests
-besscroft/picimpact
+besscroft/picimpact:latest
