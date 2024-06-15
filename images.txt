@@ -2,4 +2,3 @@ xhofe/alist:latest
 postgres:16.3-alpine
 artalk/artalk-go
 besscroft/picimpact:latests
-mysql:8.0 
