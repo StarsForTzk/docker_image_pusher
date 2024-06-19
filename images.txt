@@ -3,3 +3,4 @@ postgres:16.3-alpine
 artalk/artalk-go
 besscroft/picimpact:latest
 kasuie/remio-home
+jc21/nginx-proxy-manager:2.11.2
