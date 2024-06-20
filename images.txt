@@ -5,3 +5,5 @@ besscroft/picimpact:latest
 kasuie/remio-home
 jc21/nginx-proxy-manager:2.11.2
 halohub/halo-pro:2.16.4
+dreamacro/clash
+haishanh/yacd
