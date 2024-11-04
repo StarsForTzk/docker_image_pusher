@@ -1,10 +1,2 @@
-xhofe/alist:latest
-postgres:16.3-alpine
-artalk/artalk-go
-besscroft/picimpact:latest
-kasuie/remio-home
-jc21/nginx-proxy-manager:2.11.2
-halohub/halo-pro:2.16.4
-dreamacro/clash
-haishanh/yacd
-laoyutang/clash-and-dashboard:latest
+redis:7.4.1
+mysql:8.3.0
